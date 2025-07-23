@@ -483,6 +483,7 @@
 <tr><td>torch-1.11.0-cp310-cp310-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk59p">下载</a></td></tr>
 <tr><td>torch-1.11.0-cp39-cp39-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk59u">下载</a></td></tr>
 <tr><td>torch-1.11.0-cp38-cp38-manylinux_2_31_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk59t">下载</a></td></tr>
+  <tr><td>torch-1.11.0a0+gitbc2c6ed-cp38-cp38-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/YZWVmpZvaA==">下载</a></td></tr>
 <tr><td>torch-1.11.0-cp37-cp37m-manylinux_2_31_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk59s">下载</a></td></tr>
 <tr><td>torch-1.11.0-cp37-cp37m-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk59r">下载</a></td></tr>
 <tr><td>torch-1.10.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6Xk55q">下载</a></td></tr>
@@ -567,6 +568,7 @@
 <tr><td>torchvision-0.12.0-cp39-cp39-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJxq">下载</a></td></tr>
 <tr><td>torchvision-0.12.0-cp38-cp38-manylinux_2_31_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJlx">下载</a></td></tr>
 <tr><td>torchvision-0.12.0-cp38-cp38-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJlw">下载</a></td></tr>
+<tr><td>torchvision-0.12.0a0+9b5a3fe-cp38-cp38-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/YZWVmpZvaQ==">下载</a></td></tr>
 <tr><td>torchvision-0.12.0-cp37-cp37m-manylinux_2_31_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJlv">下载</a></td></tr>
 <tr><td>torchvision-0.12.0-cp37-cp37m-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJlu">下载</a></td></tr>
 <tr><td>torchvision-0.10.0-cp310-cp310-manylinux2014_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zp6XlJht">下载</a></td></tr>
